@@ -3,7 +3,7 @@
 ### App Description
 Used Android Studio to build a "Hello World" app with Required and Optional User Stories.
 
-### App Walk-though
+### App Walk-Through
 <img src="https://i.imgur.com/KYoJePJ.gif" width=200><br>
 
 ### Required User Stories
